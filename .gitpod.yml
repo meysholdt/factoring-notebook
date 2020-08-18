@@ -1,3 +1,5 @@
+image: gitpod/workspace-full
+
 vscode:
   extensions:
     - ms-python.python@2020.8.101144:tv9tizggYGhiq8tvlFtaOQ==
